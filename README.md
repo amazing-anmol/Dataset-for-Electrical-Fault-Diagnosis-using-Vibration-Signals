@@ -7,4 +7,4 @@ These two datasets represent line-to-ground and line-to-line faults respectively
 # Record-6_ll(75%) and Record-3_lg(75%)
 These two datasets represent line-to-line faults and line-to-ground respectively. This data was collected when fault severity was 75%.
 # IV_Data_Generator
-This dataset is sued for the fault classifcation using current signals.
+This dataset is used for the fault classifcation using current signals.
